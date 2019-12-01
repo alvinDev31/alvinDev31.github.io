@@ -12,7 +12,10 @@ Since GitHub Page is based on the Md, I have to master it.
 ## TODO
 1. How to orgnize contents with requirement?
 
-## [git](/git)
+## [Git](/git)
+Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+
+<br>
 
 ## [Md](/md)
 Markdown is a superset of HTML, so any HTML file is valid Markdown.
