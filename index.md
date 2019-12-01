@@ -12,5 +12,7 @@ Since GitHub Page is based on the Md, I have to master it.
 ## TODO
 1. How to orgnize contents with requirement?
 
-## [Md](./md/index.md)
+## [git](/git)
+
+## [Md](/md)
 Markdown is a superset of HTML, so any HTML file is valid Markdown.
