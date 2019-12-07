@@ -25,7 +25,7 @@ g) a <git remote url> that resolves to (a)
 Reference: https://docs.npmjs.com/cli/install
 
 
-## Quiz
+## Q&A
 
 ### How multi-projects use same dependencies?
 
@@ -40,8 +40,11 @@ Reference: https://pnpm.js.org/en/motivation
 
 * Install it globally if you’re going to run it on the command line.
 
+Reference: https://docs.npmjs.com/files/folders
+
 ### I there any way to avoid duplicated packages cross projects?
 
+So far found solution is pnpm.
 
 ## Issues
 
